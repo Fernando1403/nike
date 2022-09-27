@@ -1,2 +1,2 @@
-# nike
-aula explicativa tendo como exemplo o site da nike
+# 2EMIB
+Repositório de aula.
